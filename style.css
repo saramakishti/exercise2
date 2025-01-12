@@ -64,3 +64,13 @@ nav {
 .about-us p {
   margin-bottom: 20px;
 }
+
+footer {
+  color: white;
+  text-align: center;
+  background-color: rgb(54, 52, 52);
+  padding: 20px;
+}
+.social-media {
+  color: white;
+}
