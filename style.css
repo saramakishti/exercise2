@@ -50,3 +50,17 @@ nav {
 .landing-section h1 {
   font-size: 50px;
 }
+.about-us {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.about-us h1 {
+  margin-bottom: 10px;
+}
+
+.about-us p {
+  margin-bottom: 20px;
+}
